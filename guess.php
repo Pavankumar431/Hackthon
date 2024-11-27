@@ -1,6 +1,6 @@
 <html>
 <body>
-<title> Eegala Pavan Kumar 1c821f44 </title>
+<title>  1c821f44 </title>
 <h1> Welcome to my guessing game</h1>
 
 <?php
